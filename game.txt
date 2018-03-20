@@ -9,3 +9,8 @@ git reset --hard HEAD^^
 git reset --hard HEAD~1
 
 # 主分支修改ganme文件
+
+git reset --hard HEAD~10
+
+# 修改文件，演示合并分支冲突
+
