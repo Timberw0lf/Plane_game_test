@@ -6,4 +6,6 @@ git reset --hard HEAD^
 git reset --hard HEAD^^
 
 # 往上10个版本 （一般不用）
-git reset --hard HEAD~10
+git reset --hard HEAD~1
+
+# 主分支修改ganme文件
