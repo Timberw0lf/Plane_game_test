@@ -1,5 +1,4 @@
 #飞机大战
-
 # 回退到上个版本
 git reset --hard HEAD^
 
